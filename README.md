@@ -1,16 +1,16 @@
-# Data Analysis of My Favorite YouTubers using YouTube API
+## Data Analysis of My Favorite YouTubers using YouTube API
 
-## Introduction
+### Introduction
 
 Explore the world of YouTube through data analysis of some favorite YouTube creators! This project utilizes the YouTube API to delve into the metrics of channels such as Data with mo, Matt Mike, Luke Barousse, Ken Lee, and Alex the Analyst. The goal is to uncover interesting patterns, measure audience engagement, and gain insights into what makes their content popular.
 
-## Aim and Objectives
+### Aim and Objectives
 
-### Understanding the YouTube API
+#### Understanding the YouTube API
 
 Learn how to use the YouTube API to gather information about videos.
 
-### Investigating YouTube Video Success Factors
+#### Investigating YouTube Video Success Factors
 
 Explore common beliefs about successful YouTube videos, including:
 - Does having more likes and comments lead to more views?
@@ -18,11 +18,11 @@ Explore common beliefs about successful YouTube videos, including:
 - Does the length of the video title affect views?
 - How many tags do well-performing videos usually have, and what tags are common?
 
-### Analyzing Creator Upload Patterns
+#### Analyzing Creator Upload Patterns
 
 Examine the upload frequency of the creators. How often do they post new videos, and on which days of the week?
 
-## Steps of the Project
+### Steps of the Project
 
 1. **Obtain Video Metadata via YouTube API**
    - Create a developer key.
@@ -34,15 +34,15 @@ Examine the upload frequency of the creators. How often do they post new videos,
 
 4. **Conclusions**
 
-## Dataset and Ethics for Using API
+### Dataset and Ethics for Using API
 
 I created my own dataset using the Google YouTube Data API. According to the YouTube API guide, using the API is free within certain request limits (default: 10,000 requests per day). Data obtained is public, ensuring privacy is not a concern. The data is used solely for research purposes and not for commercial use.
 
-## Take a Look at My Jupyter Notebook
+### Take a Look at My Jupyter Notebook
 
 [**View My Jupyter Notebook**](https://github.com/Swapppyy/Data-Analysis-on-my-Favorite-Youtubers/blob/main/Analysis%20on%20Favorite%20Youtubers.ipynb)
 
-## My Insights
+### My Insights
 
 - The more likes and comments a video has, the more views it gets (correlation, not necessarily causation).
 - Likes are a better indicator for interaction than comments, following the "social proof" concept.
