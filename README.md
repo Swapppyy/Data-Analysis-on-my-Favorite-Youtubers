@@ -47,3 +47,4 @@ I created my own dataset using the Google YouTube Data API. According to the You
 - Most videos have between 5 and 30 tags.
 - Most-viewed videos tend to have an average title length of 30-70 characters; extremes may harm viewership.
 - Videos are usually uploaded on Tuesdays and Fridays, while weekends, especially Sundays, are less popular for new uploads.
+- Videos uploaded which are roughly around 5-10 minutes have more views, likes and comments.
