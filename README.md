@@ -2,7 +2,7 @@
 
 ### Introduction
 
-Explore the world of YouTube through data analysis of some favorite YouTube creators! This project utilizes the YouTube API to delve into the metrics of channels such as Data with mo, Matt Mike, Luke Barousse, Ken Lee, and Alex the Analyst. The goal is to uncover interesting patterns, measure audience engagement, and gain insights into what makes their content popular.
+Explore the world of YouTube through data analysis of some of my favorite YouTube creators! This project utilizes the YouTube API to delve into the metrics of channels such as Data with mo, Matt Mike, Luke Barousse, Ken Lee, and Alex the Analyst. The goal is to uncover interesting patterns, measure audience engagement, and gain insights into what makes their content popular.
 
 You can view my work over here: <a href="https://github.com/Swapppyy/Data-Analysis-on-my-Favorite-Youtubers/blob/main/Analysis%20on%20Favorite%20Youtubers.ipynb" target="_blank"><code>My Jupyter Notebook</code></a>
 
